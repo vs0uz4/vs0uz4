@@ -5,7 +5,7 @@ date: 2012-11-24 11:39
 comments: true
 categories: [Octopress, CSS3, Sass, Ruby, Rails, Rvm] 
 author: Vitor S Rodrigues
-published: false 
+published: true 
 ---
 Aqui vocês irão compartilhar as dicas mais quentes sobre TI.
 <!-- more -->
