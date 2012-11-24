@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[vS0uz4]]></title>
-  <link href="http://vs0uz4.herokuapp.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Sass | vS0uz4]]></title>
+  <link href="http://vs0uz4.herokuapp.com/blog/categories/sass/atom.xml" rel="self"/>
   <link href="http://vs0uz4.herokuapp.com/"/>
   <updated>2012-11-24T12:33:43-02:00</updated>
   <id>http://vs0uz4.herokuapp.com/</id>

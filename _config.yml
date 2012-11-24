@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://vs0uz4.herokuapp.com
+title: vS0uz4
+subtitle: Compartilhando informação.
+author: Vitor S Rodrigues
 simple_search: http://google.com/search
-description:
+description: Um blog falando dando dicas e soluções do dia a dia de um desenvolvedor.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -58,27 +58,27 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user:
-github_repo_count: 0
+github_user: vs0uz4
+github_repo_count: 2
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
-twitter_tweet_count: 4
-twitter_show_replies: false
+twitter_user: V1t0rS0uz4
+twitter_tweet_count: 2
+twitter_show_replies: true
 twitter_follow_button: true
-twitter_show_follower_count: false
+twitter_show_follower_count: true
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user:
-googleplus_hidden: false
+googleplus_user: 106662386589124965397
+googleplus_hidden: true
 
 # Pinboard
 pinboard_user:
@@ -96,4 +96,6 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_user: v1t0rs0uz4
+facebook_like: true
+facebook_like_button: true
