@@ -10,4 +10,4 @@ published: true
 Aqui vocês irão compartilhar as dicas mais quentes sobre TI.
 <!-- more -->
 Começando com meu primeiro post, vou me apresentar!
-Sou vitor de souza e sou analista de sistemas e administrador de TI.
+Sou Vitor Souza Rodrigues e sou analista de sistemas e administrador de TI.
