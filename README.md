@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm [Vitor Souza](https://www.vsouza.rio.br)
 
-<!--
-**vs0uz4/vs0uz4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏖 I'm live in [**Rio de Janeiro**](http://visit.rio/)
+- 👨‍💼 I'm a **Software Developer** 
+- 🏡 I’m currently working on [**Picpay**](https://www.picpay.com)
+- 🌱 I’m currently learning **Micro Services** and [**DDD**](https://www.amazon.com.br/Domain-Driven-Design-Eric-Evans/dp/8550800651/)
+- 👯 I’m collaborate on [**Livewire Powergrid**](https://github.com/Power-Components/livewire-powergrid), [**Ambientum**](https://github.com/ambientum/ambientum), [**Bypass for PHP**](https://github.com/ciareis/bypass), [**AdoteUm.Dev**](https://github.com/beerandcodeteam/adoteumdev) and **#PRIVATES PROJECTS#**
 
-Here are some ideas to get you started:
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vs0uz4&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs0uz4&layout=compact&langs_count=8"/> 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>📫 How to reach me:</h3>
+
+<p align="left">
+    <a href="https://www.vsouza.rio.br" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-vsouza.rio.br-blue?label&style=flat&logo=brave"></a> 
+    <a href="https://www.linkedin.com/in/v1t0rs0uz4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-@v1t0rs0uz4-blue?label&style=flat&logo=linkedin"></a>
+    <a href="https://twitter.com/V1t0rS0uz4" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@V1t0rS0uz4-blue?label&style=flat&logo=twitter"></a>
+    <a href="mailto:vitor.rodrigues@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vitor.rodrigues@gmail.com-blue?label&style=flat&logo=gmail"></a>
+    <!--
+    <a href="https://stackoverflow.com/users/XXXXXXXXXXXX?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-%USER%-blue?style=flat&logo=stackoverflow"></a>
+    -->
+</p>
+
