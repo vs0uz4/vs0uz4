@@ -1,10 +1,10 @@
 ### Hi there, I'm [Vitor Souza](https://www.vsouza.rio.br)
 
-- 🏖 I'm live in [**Rio de Janeiro**](http://visit.rio/)
+- 🏖 I live in [**Rio de Janeiro**](http://visit.rio/)
 - 👨‍💼 I'm a **Software Developer** 
-- 🏡 I’m currently working on [**Picpay**](https://www.picpay.com)
-- 🌱 I’m currently learning **Micro Services** and [**DDD**](https://www.amazon.com.br/Domain-Driven-Design-Eric-Evans/dp/8550800651/)
-- 👯 I’m collaborate on [**Livewire Powergrid**](https://github.com/Power-Components/livewire-powergrid), [**Ambientum**](https://github.com/ambientum/ambientum), [**Bypass for PHP**](https://github.com/ciareis/bypass), [**AdoteUm.Dev**](https://github.com/beerandcodeteam/adoteumdev) and **#PRIVATES PROJECTS#**
+- 🏡 Currently working at [**Picpay**](https://www.picpay.com)
+- 🌱 I’ve been learning **Micro Services** and [**DDD**](https://www.amazon.com.br/Domain-Driven-Design-Eric-Evans/dp/8550800651/)
+- 👯 Collaborating on [**Livewire Powergrid**](https://github.com/Power-Components/livewire-powergrid), [**Ambientum**](https://github.com/ambientum/ambientum), [**Bypass for PHP**](https://github.com/ciareis/bypass), [**AdoteUm.Dev**](https://github.com/beerandcodeteam/adoteumdev) and **#PRIVATES PROJECTS#**
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vs0uz4&show_icons=true&include_all_commits=true&count_private=true"/>
