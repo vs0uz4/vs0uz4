@@ -5,6 +5,7 @@
 - 🏡 Currently working at [**Picpay**](https://www.picpay.com)
 - 🌱 I’ve been learning **Micro Services** and [**DDD**](https://www.amazon.com.br/Domain-Driven-Design-Eric-Evans/dp/8550800651/)
 - 👯 Collaborating on [**Livewire Powergrid**](https://github.com/Power-Components/livewire-powergrid), [**Ambientum**](https://github.com/ambientum/ambientum), [**Bypass for PHP**](https://github.com/ciareis/bypass), [**AdoteUm.Dev**](https://github.com/beerandcodeteam/adoteumdev) and **#PRIVATES PROJECTS#**
+- 🥧 Famous for my pies
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vs0uz4&show_icons=true&include_all_commits=true&count_private=true"/>
