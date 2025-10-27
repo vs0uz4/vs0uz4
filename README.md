@@ -23,7 +23,7 @@
     <a href="https://www.linkedin.com/in/v1t0rs0uz4/" target="_blank"><img alt="LinkedIn" src="assets/images/linkedin_badge.svg"></a>
     <a href="https://twitter.com/V1t0rS0uz4" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/X-@V1t0rS0uz4-blue?label&style=social&logo=x"></a>
     <a href="https://www.instagram.com/v1t0rs0uz4/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-v1t0rs0uz4-rainbow?label&style=social&logo=instagram&logoColor=blue"></a>
-    <a href="https://www.facebook.com/v1t0rs0uz4" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-vtottaautora-blue?label&style=social&logo=facebook"></a>
+    <a href="https://www.facebook.com/v1t0rs0uz4" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-v1t0rs0uz4-blue?label&style=social&logo=facebook"></a>
     <a href="mailto:vitor.rodrigues@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vitor.rodrigues@gmail.com-blue?label&style=social&logo=gmail"></a>
 </p>
 <!-- markdownlint-enable MD033 -->
